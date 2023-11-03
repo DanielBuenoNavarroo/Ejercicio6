@@ -1,25 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout
-    xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical">
 
-    <TextView
-        android:id="@+id/textView2"
-        android:layout_width="match_parent"
-        android:layout_height="50dp"
-        android:background="#673AB7"
-        android:lineSpacingExtra="0sp"
-        android:padding="8sp"
-        android:text="@string/Titulo"
-        android:textAlignment="viewStart"
-        android:textAllCaps="false"
-        android:textColor="#FFFFFF" />
 
-    <TextView
-        android:id="@+id/textView4"
+    <Button
+        android:id="@+id/LL1"
+        style="@style/Widget.AppCompat.Button"
         android:layout_width="match_parent"
-        android:layout_height="300dp"
-        android:background="@drawable/circulo" />
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="@string/LL1" />
+
+    <Button
+        android:id="@+id/button5"
+        style="@style/Widget.AppCompat.Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Button" />
+
+    <Button
+        android:id="@+id/button6"
+        style="@style/Widget.AppCompat.Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Button" />
+
+    <Button
+        android:id="@+id/button7"
+        style="@style/Widget.AppCompat.Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Button" />
+
+    <Button
+        android:id="@+id/button8"
+        style="@style/Widget.AppCompat.Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Button" />
+
+    <Button
+        android:id="@+id/button9"
+        style="@style/Widget.AppCompat.Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Button" />
 </LinearLayout>

@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">Ejercicio6</string>
     <string name="Titulo">EjercicioAndroid2</string>
+    <string name="Name">Nombre</string>
+    <string name="Antes"><![CDATA[<-]]></string>
+    <string name="Siguente"><![CDATA[->]]></string>
+    <string name="Fol">Followers</string>
+    <string name="Foling">Following</string>
+    <string name="Estr">Estrellita</string>
+    <string name="LL1">LinearLayout 1</string>
 </resources>
