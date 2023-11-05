@@ -13,6 +13,21 @@
         android:theme="@style/Theme.Ejercicio6"
         tools:targetApi="31">
         <activity
+            android:name=".ConstraintLayout2"
+            android:exported="false" />
+        <activity
+            android:name=".ConstraintLayout1"
+            android:exported="false" />
+        <activity
+            android:name=".TableLayout2"
+            android:exported="false" />
+        <activity
+            android:name=".TableLayout1"
+            android:exported="false" />
+        <activity
+            android:name=".LinearLayout2"
+            android:exported="false" />
+        <activity
             android:name=".LinearLayout1"
             android:exported="false" />
         <activity

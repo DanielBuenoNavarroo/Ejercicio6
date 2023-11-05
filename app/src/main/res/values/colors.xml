@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="negro">#FF000000</color>
-    <color name="cian">#00BCD4</color>
+    <color name="cian">#D213AE9E</color>
+    <color name="cianClaro">#40E0D0</color>
     <color name="transparente">#00FF0000</color>
+    <color name="gris">#E1E1E1</color>
+    <color name="verde">#B47BDA53</color>
     <color name="blanco">#00FFFFFF</color>
+    <color name="morado">#673AB7</color>
 </resources>

@@ -5,15 +5,15 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
 
-class LinearLayout1 : AppCompatActivity() {
-    private lateinit var btnInicio : Button
+private lateinit var btnInicio : Button
+class TableLayout2 : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_linear_layout1)
+        setContentView(R.layout.activity_table_layout2)
 
-        btnInicio = findViewById(R.id.btnInicio1)
+        btnInicio = findViewById(R.id.botonInicio)
         btnInicio.setOnClickListener {
-            val intent = Intent(this@LinearLayout1, MainActivity::class.java)
+            intent = Intent(this@TableLayout2, MainActivity::class.java)
             startActivity(intent)
         }
     }

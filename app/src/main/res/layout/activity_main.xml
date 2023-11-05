@@ -14,42 +14,42 @@
         android:text="@string/LL1" />
 
     <Button
-        android:id="@+id/button5"
+        android:id="@+id/LL2"
         style="@style/Widget.AppCompat.Button"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_weight="1"
-        android:text="Button" />
+        android:text="@string/LL2" />
 
     <Button
-        android:id="@+id/button6"
+        android:id="@+id/TL1"
         style="@style/Widget.AppCompat.Button"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_weight="1"
-        android:text="Button" />
+        android:text="@string/TL1" />
 
     <Button
-        android:id="@+id/button7"
+        android:id="@+id/TL2"
         style="@style/Widget.AppCompat.Button"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_weight="1"
-        android:text="Button" />
+        android:text="@string/TL2" />
 
     <Button
-        android:id="@+id/button8"
+        android:id="@+id/CL1"
         style="@style/Widget.AppCompat.Button"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_weight="1"
-        android:text="Button" />
+        android:text="@string/CL1" />
 
     <Button
-        android:id="@+id/button9"
+        android:id="@+id/CL2"
         style="@style/Widget.AppCompat.Button"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_weight="1"
-        android:text="Button" />
+        android:text="@string/CL2" />
 </LinearLayout>

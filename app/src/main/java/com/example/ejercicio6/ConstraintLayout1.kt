@@ -5,15 +5,15 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
 
-class LinearLayout1 : AppCompatActivity() {
+class ConstraintLayout1 : AppCompatActivity() {
     private lateinit var btnInicio : Button
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_linear_layout1)
+        setContentView(R.layout.activity_constraint_layout1)
 
-        btnInicio = findViewById(R.id.btnInicio1)
+        btnInicio = findViewById(R.id.botonInicio)
         btnInicio.setOnClickListener {
-            val intent = Intent(this@LinearLayout1, MainActivity::class.java)
+            val intent = Intent(this@ConstraintLayout1, MainActivity::class.java)
             startActivity(intent)
         }
     }

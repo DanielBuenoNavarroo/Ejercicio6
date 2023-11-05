@@ -8,4 +8,14 @@
     <string name="Foling">Following</string>
     <string name="Estr">Estrellita</string>
     <string name="LL1">LinearLayout 1</string>
+    <string name="edit_profile">Edit profile</string>
+    <string name="LL2">LinearLayout 2</string>
+    <string name="TL1">TableLayout 1</string>
+    <string name="TL2">TableLayout 2</string>
+    <string name="CL1">ConstraintLayout 1</string>
+    <string name="CL2">ConstraintLayout 2</string>
+    <string name="home">Inicio</string>
+    <string name="Asunto">Asunto</string>
+    <string name="Cont">Contenido</string>
+    <string name="Fecha">Fecha</string>
 </resources>
